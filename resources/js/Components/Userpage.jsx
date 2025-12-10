@@ -4,7 +4,7 @@ import axios from "axios";
 import Navbar from "./Navbar";
 import Hero from "./Hero";
 import Services from "./Services";
-import BookingForm from "./BookingForm";
+import BookingForm from "./BookingForm.jsx";
 import Tracking from "./Tracking";
 import Dashboard from "./Dashboard";
 import Footer from "./Footer";
